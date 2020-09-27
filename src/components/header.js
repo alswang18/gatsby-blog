@@ -41,6 +41,11 @@ const Header = () => {
                         </Link>   
                     </li>
                     <li>
+                        <a href="https://www.notion.so/Alec-Notion-884e900a5379449bac1afa36f5ce0f39" target="_blank" className={headerStyles.navItem} activeClassName={headerStyles.activeNavItem} >
+                            Notion
+                        </a> 
+                    </li>
+                    <li>
                         <a href="https://www.linkedin.com/in/alec-sy-wang-246924156/" target="_blank" className={headerStyles.navItem} activeClassName={headerStyles.activeNavItem} >
                             <i class="fa fa-linkedin"></i>
                         </a> 
