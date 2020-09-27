@@ -6,11 +6,21 @@ const AboutPage = () => {
     return (
         <Layout>
             <Head title="About"/>
-            <h1>About</h1>
-            <p> This is my about.</p>
-            <p>Need a developer? <Link to="/contact">Contact me.</Link></p>
+            <h2>About me</h2>
+            <p> Hey I'm Alec!</p>
+            <p>I am a data-driven software engineer and problem-solver with experience building data solutions in fast growing companies. 
+                I am passionate about creating data products that improve people's daily lives.</p>
+            <p>I was in First Circle as a Product Intern then transitioned into the Data Team. Before that, I was working in operations or engineering at various B2B SaaS startups: Expedock, Exora, Taikuun. I was also once a Datascience Bootcamp Associate in Eskwelabs.</p>
+            <p>
+                Currently, I am a student in Simon Fraser University working on my BSC Computing Science degree. 
+                I am a co-founder of Effective Altruism Blue and Effective Altruism Philippines, 
+                an NGO in the Asia Pacific focused on rating the effectiveness of charity organizations.
+            </p>
+            <p>You’ll find my thoughts, work, personal and professional interests here.</p>
+            <p>If you’re interested in connecting professionally, you can view my profile on LinkedIn or <Link to="/contact">contact me.</Link></p>
+            <br/>
             <h2>About this website</h2>
-            <p>This site is built using Markdown and React using the Gatsby framework, and hosted on Netlify. The source for this website is available on my GitHub.</p>
+            <p>This site is built using Markdown and React using the Gatsby framework, and hosted on Netlify. The source for this website is available on my <a href="https://github.com/alswang18/gatsby-blog">GitHub.</a></p>
         </Layout>
     )
 }
