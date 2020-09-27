@@ -13,8 +13,15 @@ const Footer = () => {
     `)
     return (
         <footer className={footerStyles.footer}>
+            <h3>Corrections</h3>
             <p>
-                © Copright 2020-<span id="currentyear"> {(new Date().getFullYear())} {data.site.siteMetadata.author}.</span>
+                If you see mistakes or want to suggest changes, please <a href="https://github.com/alswang18/gatsby-blog/issues">create an issue</a> on the source repository.
+            </p>
+            <p className={footerStyles.end}>
+                © Copright 2020 -<span> {(new Date().getFullYear())}</span> {data.site.siteMetadata.author}.
+            </p>
+            <p className={footerStyles.end}>
+                Opinions expressed here represent my own and not those of my employer. Content on this site is subject to policies.
             </p>
             
         </footer>
