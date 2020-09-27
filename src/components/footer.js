@@ -13,6 +13,7 @@ const Footer = () => {
     `)
     return (
         <footer className={footerStyles.footer}>
+            <hr />
             <h3>Corrections</h3>
             <p>
                 If you see mistakes or want to suggest changes, please <a href="https://github.com/alswang18/gatsby-blog/issues">create an issue</a> on the source repository.

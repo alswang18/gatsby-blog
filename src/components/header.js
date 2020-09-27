@@ -41,6 +41,7 @@ const Header = () => {
                     </li>
                 </ul> 
             </nav>
+            <hr/>
         </header> 
         
     )
