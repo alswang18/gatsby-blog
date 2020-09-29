@@ -8,7 +8,7 @@ const ContactPage = () => {
             <Head title="Contact"/>
             <h2>Contact</h2>
             <div>
-            <p> Get in contact via social media or via old-reliable e-mail.</p>
+            <p> Get in contact via social media or via old-reliable <a href="mailto:productivity.alswang18@gmail.com">e-mail.</a></p>
             <ul>
                 <a href="https://www.linkedin.com/in/alec-sy-wang-246924156/" target="_blank" rel="noreferrer"><h1 className={contactStyles.blueIcon}><i class="fa fa-linkedin" aria-label="Linkedin Link Icon"></i></h1></a>
                 <a href="https://github.com/alswang18" target="_blank" rel="noreferrer"><h1 className={contactStyles.icon}><i class="fa fa-github" aria-label="Github Link Icon"></i></h1></a>
