@@ -10,9 +10,9 @@ const ContactPage = () => {
             <div>
             <p> Get in contact via social media or via old-reliable e-mail.</p>
             <ul>
-                <a href="https://www.linkedin.com/in/alec-sy-wang-246924156/" target="_blank" rel="noreferrer"><h1 className={contactStyles.blueIcon}><i class="fa fa-linkedin"></i></h1></a>
-                <a href="https://github.com/alswang18" target="_blank" rel="noreferrer"><h1 className={contactStyles.icon}><i class="fa fa-github"></i></h1></a>
-                <a href = "https://www.facebook.com/alec.wang.12" target="_blank" rel="noreferrer"><h1 className={contactStyles.blueIcon}><i class="fa fa-facebook"></i></h1></a>
+                <a href="https://www.linkedin.com/in/alec-sy-wang-246924156/" target="_blank" rel="noreferrer"><h1 className={contactStyles.blueIcon}><i class="fa fa-linkedin" aria-label="Linkedin Link Icon"></i></h1></a>
+                <a href="https://github.com/alswang18" target="_blank" rel="noreferrer"><h1 className={contactStyles.icon}><i class="fa fa-github" aria-label="Github Link Icon"></i></h1></a>
+                <a href = "https://www.facebook.com/alec.wang.12" target="_blank" rel="noreferrer"><h1 className={contactStyles.blueIcon}><i class="fa fa-facebook" aria-label="Facebook Link Icon"></i></h1></a>
             </ul>
             <p>
                 I am currently open to opportunities in consulting, data science, web scraping, and full-stack web development.

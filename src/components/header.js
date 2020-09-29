@@ -41,22 +41,22 @@ const Header = () => {
                         </Link>   
                     </li>
                     <li>
-                        <a href="https://www.notion.so/Alec-Notion-884e900a5379449bac1afa36f5ce0f39" target="_blank" className={headerStyles.navItem} activeClassName={headerStyles.activeNavItem} >
+                        <a href="https://www.notion.so/Alec-Notion-884e900a5379449bac1afa36f5ce0f39" target="_blank" rel="noreferrer" className={headerStyles.navItem} activeClassName={headerStyles.activeNavItem} >
                             Notion
                         </a> 
                     </li>
                     <li>
-                        <a href="https://www.linkedin.com/in/alec-sy-wang-246924156/" target="_blank" className={headerStyles.navItem} activeClassName={headerStyles.activeNavItem} >
+                        <a href="https://www.linkedin.com/in/alec-sy-wang-246924156/" target="_blank" rel="noreferrer" className={headerStyles.navItem} activeClassName={headerStyles.activeNavItem} >
                             <i class="fa fa-linkedin"></i>
                         </a> 
                     </li>
                     <li>
-                        <a href="https://github.com/alswang18" target="_blank" className={headerStyles.navItem} activeClassName={headerStyles.activeNavItem} to="/contact">
+                        <a href="https://github.com/alswang18" target="_blank" rel="noreferrer" className={headerStyles.navItem} activeClassName={headerStyles.activeNavItem} to="/contact">
                             <i class="fa fa-github"></i>
                         </a>  
                     </li>
                     <li>
-                        <a href="https://www.facebook.com/alec.wang.12" target="_blank" className={headerStyles.navItem} activeClassName={headerStyles.activeNavItem} to="/contact">
+                        <a href="https://www.facebook.com/alec.wang.12" target="_blank" rel="noreferrer" className={headerStyles.navItem} activeClassName={headerStyles.activeNavItem} to="/contact">
                             <i class="fa fa-facebook"></i>
                         </a>
                     </li>
