@@ -13,8 +13,7 @@ const AboutPage = () => {
             <p>I was in First Circle as a Product Intern then transitioned into the Data Team. Before that, I was working in operations or engineering at various B2B SaaS startups: Expedock, Exora, Taikuun. I was also once a Datascience Bootcamp Associate in Eskwelabs.</p>
             <p>
                 Currently, I am a student in Simon Fraser University working on my BSC Computing Science degree. 
-                I am a co-founder of Effective Altruism Blue and Effective Altruism Philippines, 
-                an NGO in the Asia Pacific focused on rating the effectiveness of charity organizations.
+                I was a co-organizer of <a href="https://www.facebook.com/groups/effectivealtruismph">Effective Altruism Philippines</a>, the local chapter of the <a href="effectivealtruism.org">effective altruism (EA) movement</a>, and a co-founder of <a href="https://www.facebook.com/eablue.ph">Effective Altruism Blue</a>, an EA student chapter in Ateneo de Manila University.
             </p>
             <p>You’ll find my thoughts, work, personal and professional interests here.</p>
             <p>If you’re interested in connecting professionally, you can view my profile on LinkedIn or <Link to="/contact">contact me.</Link></p>
