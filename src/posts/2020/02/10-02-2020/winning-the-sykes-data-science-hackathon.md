@@ -7,20 +7,20 @@ featuredimage:
   alt: "sykes_poster"
 ---
 
-## Outline:
+## Outline of this post:
 
 ### 1. Why did I do this? 
 
-2. How did I prepare?
+### 2. How did I prepare?
 
-3. What was the experience like and how did I win?
+### 3. What was the experience like and how did I win?
 
 ### Why did I do this?
 
 
 Last year, I made it a goal to get to a point in my career where I could take first place in the annual Sykes-sponsored data science hackathon held in Ateneo De Manila University. I was always interested in Data Science and data work in general upon graduating from high school. During freshman year, the first Sykes Data Science Hackathon had taken place, and I thought this would be a good opportunity to meet people interested in the field as well. 
 
-![image1](./image1.png)
+![image1](./image1.jpg)
 
 This was a Kaggle-style competition hosted by Sykes, an American multinational process outsourcing company, wherein the winner was decided by who had the most accurate predictions at the end of the competition. The three teams with the top predictions would then give a presentation to industry veterans who would then critique the team's understanding of the model and the value of the types of predictions they were making as well as their ability to communicate these things to stakeholders.
 
