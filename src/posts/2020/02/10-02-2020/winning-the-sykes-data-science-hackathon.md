@@ -57,3 +57,5 @@ I ran the whole 50+ feature through a random forest classifier, then looked thro
 The focus that feature importance filtering allowed me to have about which types of hypothesis to have let me work on a smaller subset of solutions given the short time I had for the hackathon. Overall, I credit this practice with giving me the win as it prepped the environment to let me take that win. 
 
 Time features ended up increasing my score the most of any feature engineering I did for that competition. Encoding a days of the week column combined with all the other feature engineering I did that day was what ended up giving me the first place position among the submissions. I then spent the rest of competition hyperparameter tuning and slightly my overall AUC ROC score, but the trench between my score and second place from the first submission was never crossed.
+
+Overall, the journey year-long journey from non-coder to being recognized as among the top of my peers was one that I treasure. This experience early on was a turning point for me that gave me the confidence to put myself in the situations I am sure will be described in future entries of this blog. 
