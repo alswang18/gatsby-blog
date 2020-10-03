@@ -4,7 +4,7 @@ import blogStyles from './blog.module.scss'
 import Layout from '../components/layout';
 import Head from '../components/head'
 const IndexPage = () => {
-  const data = useStaticQuery(graphql` 
+  const recentData = useStaticQuery(graphql` 
     query{
         allMarkdownRemark(sort: { order: DESC, fields: frontmatter___date } limit:1){
             edges{
@@ -22,15 +22,16 @@ const IndexPage = () => {
         }
     }
 `)
+
   return (
     <Layout>
       <Head title="Home"/>
       <h1>Welcome to my corner!</h1>
       <h3>I'm Alec Wang, a Computing Scientist excited about data products and open to tech opportunities in North America and Asia-Pacific.</h3>
       <br/>
-      <strong>Most Recent Thoughts:</strong>
+      <strong>Most Recent Blog Post:</strong>
       <ol className={blogStyles.posts}>
-        {data.allMarkdownRemark.edges.map((edge)=>{
+        {recentData.allMarkdownRemark.edges.map((edge)=>{
           return (
             <li className={blogStyles.post}>
               <Link to={`/blog/${edge.node.fields.slug}`}>

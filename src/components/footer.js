@@ -22,7 +22,7 @@ const Footer = () => {
                 © Copright 2020 -<span> {(new Date().getFullYear())}</span> {data.site.siteMetadata.author}.
             </p>
             <p className={footerStyles.end}>
-                Opinions expressed here represent my own and not those of my employer. Content on this site is subject to policies.
+                Opinions expressed here represent my own and not those of my employer. Content on this site is subject to copyright.
             </p>
             
         </footer>

@@ -19,7 +19,7 @@ const AboutPage = () => {
             <p>If you’re interested in connecting professionally, you can view my profile on LinkedIn or <Link to="/contact">contact me.</Link></p>
             <br/>
             <h2>About this website</h2>
-            <p>This site is built using Markdown and React using the Gatsby framework, and hosted on Netlify. The source for this website is available on my <a href="https://github.com/alswang18/gatsby-blog">GitHub.</a></p>
+            <p>This site is built using Markdown and <a href="https://reactjs.org/">React</a> using the <a href="https://www.gatsbyjs.com/">Gatsby</a> framework, and hosted on Netlify. The source for this website is available on my <a href="https://github.com/alswang18/gatsby-blog">GitHub.</a></p>
         </Layout>
     )
 }
