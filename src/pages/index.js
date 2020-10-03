@@ -26,8 +26,9 @@ const IndexPage = () => {
     <Layout>
       <Head title="Home"/>
       <h1>Welcome to my corner!</h1>
-      <h2>I'm Alec Wang, a Computing Scientist excited about data products and open to tech opportunities in North America and Asia-Pacific.</h2>
-      <h3>Most Recent Thoughts:</h3>
+      <h3>I'm Alec Wang, a Computing Scientist excited about data products and open to tech opportunities in North America and Asia-Pacific.</h3>
+      <br/>
+      <strong>Most Recent Thoughts:</strong>
       <ol className={blogStyles.posts}>
         {data.allMarkdownRemark.edges.map((edge)=>{
           return (
