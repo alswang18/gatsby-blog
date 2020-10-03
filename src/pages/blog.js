@@ -26,8 +26,10 @@ const BlogPage = () => {
     return (
         <Layout>
             <Head title="Blog"/>
-            <h1>Blog</h1>
-            <div>Blog posts are the results of projects, analyses on ideas and issues, or reviews on media I heavily engaged with. My favorite topics involve literature, software engineering, design, entrepreneurship, and of course data science and analytics.</div>
+            <h1><i class="fa fa-terminal"></i> Blog Posts</h1>
+            <div><em>Blog posts are the result of projects, analyses on ideas and issues, or reviews on media I heavily engaged with. My favorite topics involve literature, software engineering, design, entrepreneurship, and of course data science and analytics.</em></div>
+            <br/>
+            <hr/>
             <ol className={blogStyles.posts}>
                 {data.allMarkdownRemark.edges.map((edge)=>{
                     return (
