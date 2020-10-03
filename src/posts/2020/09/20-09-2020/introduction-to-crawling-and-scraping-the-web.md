@@ -7,7 +7,6 @@ featuredimage:
   alt: "spider"
 ---
 
-# Introduction to Crawling and Scraping the Web
 [Code featured here and other spiders on github](https://github.com/alswang18/scrapy_spiders)
 
 Web scraping exists in a gray area between web activity automation and hacking because there is a constant arms race between people who want to get data and people who want to protect their data, so the resources and community available to most people aren't as accessible in my opinion to something compared to say Web Development. Scaling web scraping, deploying scrapers on a scheduler, and many such tasks are not always straightforward to find answers to.

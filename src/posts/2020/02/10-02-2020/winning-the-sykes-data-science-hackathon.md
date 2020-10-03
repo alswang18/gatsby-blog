@@ -7,8 +7,6 @@ featuredimage:
   alt: "sykes_poster"
 ---
 
-# Winning the Sykes Data Science Hackathon
-
 ## Outline:
 
 ### 1. Why did I do this? 

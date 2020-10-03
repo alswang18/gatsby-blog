@@ -27,6 +27,7 @@ const BlogPage = () => {
         <Layout>
             <Head title="Blog"/>
             <h1>Blog</h1>
+            <div>Blog posts are the results of projects, analyses on ideas and issues, or reviews on media I heavily engaged with. My favorite topics involve literature, software engineering, design, entrepreneurship, and of course data science and analytics.</div>
             <ol className={blogStyles.posts}>
                 {data.allMarkdownRemark.edges.map((edge)=>{
                     return (
