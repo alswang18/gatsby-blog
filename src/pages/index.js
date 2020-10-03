@@ -6,7 +6,7 @@ import Head from '../components/head'
 const IndexPage = () => {
   const data = useStaticQuery(graphql` 
     query{
-        allMarkdownRemark(sort: { order: DESC, fields: frontmatter___date } limit:2){
+        allMarkdownRemark(sort: { order: DESC, fields: frontmatter___date } limit:1){
             edges{
                 node{
                     frontmatter{
