@@ -10,9 +10,9 @@ featuredimage:
 
 The weekend of October 2 2020 was one of the most hectic in recent memory. Within a 48 hour span, I decided to get less than 7 hours of sleep, compete in a 36-hour hackathon, and take 2 midterm exams. 
 
-I have been spending the better part of the last 3 months training and developing a casual dev group of non-technical college students that I can implement hobby projects with. The fruits of this labor were proven recently when I entered us in an international hackathon organized by NASA called SpaceApps where we implemented what we later found out would be the winning entry of the competition. My hobby group teammates: [Jibril Espanola](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjibril-espa%C3%B1ola-9588541b9%3Ffbclid%3DIwAR3e19-6VZNfJLZn0uUhdR3P8LLzjCzI_nruD8gm6GlKwKyYPYq-1tRCaxE&h=AT1M8QcfLQeyZwh0lXN7rKu5XxrYubVURtoxVenSSgRggc7ny9FlCpX0hTciYwV1lmycPzdyB4pgcHUthrKWraVdaapC-45i4Pxo6WnuIsOpsQ-ETlyNI0pwOC_THpDDdWuiwA) and [Lorenzo Mercado](https://www.linkedin.com/in/enzomercadoph/), and a local tech student we recruited, [Tanzell Go](https://www.linkedin.com/in/tanzell-go-5b46b3181/), all stayed up for the 36 hours coding this project to fruition.  
+I have been spending the better part of the last 3 months training and developing a casual dev group of non-technical college students that I can implement hobby projects with. The fruits of this labor were proven recently when I entered us in an international hackathon organized by NASA called SpaceApps where we implemented what we later found out would be the winning entry of the competition. My hobby group teammates: [Jibril Espanola](https://www.linkedin.com/in/jibril-espa%C3%B1ola-9588541b9/) and [Lorenzo Mercado](https://www.linkedin.com/in/enzomercadoph/), and a local tech student we recruited, [Tanzell Go](https://www.linkedin.com/in/tanzell-go-5b46b3181/), all stayed up for the 36 hours coding this project to fruition.  
 
-![image1.jpg)
+![image1](./image1.jpg)
 
 We joined the Observe challenge category, which called for digital applications and products that utilize NASA's earth observation technology to create a solution to an existing problem related to biodiversity. 
 
@@ -39,7 +39,7 @@ We then wrote up the web application in Django as it came with a lot of template
 
 We named our solution BakodAI. Bakod is a Cebuano word for grids or fences, which fit well with our methodology of monitoring a large-scale forest area by dividing it into standardized boxes and making predictions on these slices over time. This method was inspired by the quadrats ecologists use to collect data about plant life in a given area developed in the late 19th and early 20th century. 
 
-![image2.jpg)
+![image2](./image2.jpg)
 
 The idea of the quadrat and our satellite imaging technology ultimately comes from the same place, but instead of PVC pipes and wires, we're using NASA satellites. We truly are living in the future.
 
