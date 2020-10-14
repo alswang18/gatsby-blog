@@ -1,6 +1,6 @@
 ---
 title: "Nasa SpaceApps 2020"
-date: "2020-02-10"
+date: "2020-10-13"
 description: "I have been spending the better part of the last 3 months training and developing a casual dev group of non-technical college students that I can implement hobby projects with. The fruits of this labor were proven recently when I entered us in an international hackathon organized by NASA called SpaceApps where we implemented what we later found out would be the winning entry of the competition."
 featuredimage:
   src: "./image1.jpg"
