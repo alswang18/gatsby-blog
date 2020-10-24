@@ -37,7 +37,7 @@ Activities that can be detected by our proof of concept are:
 
 We then wrote up the web application in Django as it came with a lot of templates for the things we needed to implement out-of-the-box; in-line with its motto of being *"the framework for perfectionists with deadlines".* (cheeky, but it's not wrong)
 
-We named our solution BakodAI. Bakod is a Cebuano word for grids or fences, which fit well with our methodology of monitoring a large-scale forest area by dividing it into standardized boxes and making predictions on these slices over time. This method was inspired by the quadrats ecologists use to collect data about plant life in a given area developed in the late 19th and early 20th century. 
+We named our solution BakodAI. Bakod is an Ilonggo word for grids or fences, which fit well with our methodology of monitoring a large-scale forest area by dividing it into standardized boxes and making predictions on these slices over time. This method was inspired by the quadrats ecologists use to collect data about plant life in a given area developed in the late 19th and early 20th century. 
 
 ![image2](./image2.jpg)
 
