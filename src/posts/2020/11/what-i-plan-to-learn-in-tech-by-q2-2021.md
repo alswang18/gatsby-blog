@@ -6,7 +6,7 @@ description: "Following my first semester in Vancouver, I have been slightly dis
 
 Following my first semester in Vancouver, I have been slightly disappointed in my ability to manage personal projects with my academic responsibilities. I was able to get great grades, but as this is my first semester since high school being unemployed I felt just a bit uncomfortable with how little I actually accomplished in terms of extra-curricular activities. To keep myself from becoming dull as a builder, I decided to pick up some tools I always had a bit of a hunger to pick up.
 
-I decided then to write this article in order to establish clear (or at the very least public) goals to follow through on. I will attempt to use KPI style reporting, but since these are more exploratory I'll feel free to fudge my metrics to be a bit less strictly quantitative. 
+I decided then to write this article in order to establish clear (or at the very least public) goals to follow through on. I will attempt to use Objective Key Results-style goal planning, which requires an objective metric with a subjective 70%-ish chance of success, but since these are more exploratory I'll feel free to fudge my metrics to be a bit less strictly quantitative. 
 
 **Cloud Technologies**
 
